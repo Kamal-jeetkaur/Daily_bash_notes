@@ -34,6 +34,7 @@ The Daily diary of training 2025
 | 4.      | Basic Styling Using CSS                         | [10-July-2025](https://kamal-jeetkaur.github.io/Daily_bash_notes_2025/HTML/2025-July-10) |
 
 ## Git:
+
 | Sr. No. | Content                                         | Read here   |
 | --------| ----------------------------------------------- | ----------- |
 | 1.      | Introduction to Git and Version Control         | [11-July-2025](https://kamal-jeetkaur.github.io/Daily_bash_notes_2025/Git/2025-July-11) |
