@@ -2,6 +2,7 @@
 The Daily diary of training 2025
 
 ## Linux:
+
 | Sr. No. | Content                                         | Read here   |
 | --------| ----------------------------------------------- | ----------- |
 | 1.      | Introduction to Linux                           | [25-June-2025](https://kamal-jeetkaur.github.io/Daily_bash_notes_2025/Linux/2025-June-25) |
@@ -9,6 +10,7 @@ The Daily diary of training 2025
 | 3.      | Permissions & Shell programming                 | [27-June-2025](https://kamal-jeetkaur.github.io/Daily_bash_notes_2025/Linux/2025-June-27) |
 
 ## Hardware:
+
 | Sr. No. | Content                                         | Read here   |
 | --------| ----------------------------------------------- | ----------- |
 | 1.      | PC Hardware Trouble shooting                    | [30-June-2025](https://kamal-jeetkaur.github.io/Daily_bash_notes_2025/Hardware/2025-June-30) |
@@ -16,12 +18,14 @@ The Daily diary of training 2025
 | 3.      | Software/System Troubleshooting               | [02-July-2025](https://kamal-jeetkaur.github.io/Daily_bash_notes_2025/Hardware/2025-July-02) |
 
 ## Networking:
+
 | Sr. No. | Content                                         | Read here   |
 | --------| ----------------------------------------------- | ----------- |
 | 1.      | Networking Basics                               | [03-July-2025](https://kamal-jeetkaur.github.io/Daily_bash_notes_2025/Networking/2025-July-03) |
 | 2.      | Networking Commands and Concepts                | [04-July-2025](https://kamal-jeetkaur.github.io/Daily_bash_notes_2025/Networking/2025-July-04) |
 
 ## HTML:
+
 | Sr. No. | Content                                         | Read here   |
 | --------| ----------------------------------------------- | ----------- |
 | 1.      | Introduction to HTML & Web Basics               | [07-July-2025](https://kamal-jeetkaur.github.io/Daily_bash_notes_2025/HTML/2025-July-07) |
